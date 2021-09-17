@@ -1,1 +1,1 @@
-Kafka environment for text
+Kafka environment for test
